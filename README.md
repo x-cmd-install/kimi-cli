@@ -7,7 +7,7 @@ Kimi Code CLI is your next CLI agent.
 - **Latest release**: `1.50.0` (2026-09-01)
 - **Last commit**: 2026-09-01
 - **License**: Apache-2.0
-- **Stars**: 11333 · **Forks**: 1300 · **Open issues**: 1046 · **Contributors**: 76
+- **Stars**: 11335 · **Forks**: 1299 · **Open issues**: 1048 · **Contributors**: 76
 
 ## Installation
 
@@ -21,4 +21,4 @@ See <https://x-cmd.com/install/kimi-cli> for details.
 
 This mirror is auto-maintained by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action). Latest card snapshot: `data/card/260909.yml`. Merged card+release view: `data/latest.report.yml`.
 
-_Last regenerated: 2026-09-09T05:50:43Z._
+_Last regenerated: 2026-09-09T19:51:34Z._
