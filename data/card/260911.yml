@@ -7,7 +7,7 @@ about:
   latestVersion: "1.50.0"
   latestRelease: "1.50.0"
   latestPrerelease: ""
-  collectedAt: 2026-09-11T05:33:24Z
+  collectedAt: 2026-09-11T19:26:00Z
 timeline:
   created: 2025-10-15
   lastCommit: 2026-09-01
@@ -15,7 +15,7 @@ timeline:
   lastRelease: 2026-09-01
   lastPrerelease: 
 popularity:
-  star: 11339
+  star: 11341
   watcher: 59
   fork: 1299
   release: 103
@@ -90,7 +90,7 @@ total:
   commit: 1385
 ---
 path: /home/runner/.x-repo/github.com/MoonshotAI/kimi-cli
-collectedAt: 2026-09-11T05:33:29Z
+collectedAt: 2026-09-11T19:26:06Z
 loc:
   Python:
     code: 110602
