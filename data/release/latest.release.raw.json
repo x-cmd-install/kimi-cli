@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 67992378,
       "digest": "sha256:5684f903cfc1ca1be4135a2634f7db108c787827c084b41df6a98eb01c9012df",
-      "download_count": 968,
+      "download_count": 990,
       "created_at": "2026-09-01T16:53:11Z",
       "updated_at": "2026-09-01T16:53:17Z",
       "browser_download_url": "https://github.com/MoonshotAI/kimi-cli/releases/download/1.50.0/kimi-1.50.0-aarch64-apple-darwin.tar.gz"
@@ -283,7 +283,7 @@
       "state": "uploaded",
       "size": 67708361,
       "digest": "sha256:45fdb98d41a37e5430c332290a9cd97cb0586c428c1d49f6e11c54c80efdfc85",
-      "download_count": 277,
+      "download_count": 286,
       "created_at": "2026-09-01T16:53:11Z",
       "updated_at": "2026-09-01T16:53:17Z",
       "browser_download_url": "https://github.com/MoonshotAI/kimi-cli/releases/download/1.50.0/kimi-1.50.0-aarch64-pc-windows-msvc.zip"
@@ -427,7 +427,7 @@
       "state": "uploaded",
       "size": 92812379,
       "digest": "sha256:de235322f48abe63e7a8d737f39f0c00fecf724f1dfaa1ae02491bb773ae8070",
-      "download_count": 352,
+      "download_count": 362,
       "created_at": "2026-09-01T16:53:11Z",
       "updated_at": "2026-09-01T16:53:18Z",
       "browser_download_url": "https://github.com/MoonshotAI/kimi-cli/releases/download/1.50.0/kimi-1.50.0-aarch64-unknown-linux-gnu.tar.gz"
@@ -715,7 +715,7 @@
       "state": "uploaded",
       "size": 71994470,
       "digest": "sha256:2752f041cd7ead131c81b06f32bd1cf30afadf9b2e4741f7273331877aef6b33",
-      "download_count": 1995,
+      "download_count": 2036,
       "created_at": "2026-09-01T16:53:11Z",
       "updated_at": "2026-09-01T16:53:18Z",
       "browser_download_url": "https://github.com/MoonshotAI/kimi-cli/releases/download/1.50.0/kimi-1.50.0-x86_64-pc-windows-msvc.zip"
@@ -787,7 +787,7 @@
       "state": "uploaded",
       "size": 95685554,
       "digest": "sha256:e859e6d577637fa0b3aa0759a06ed23093be150f41fcb25bc92e1183be4f893a",
-      "download_count": 21,
+      "download_count": 22,
       "created_at": "2026-09-01T16:53:11Z",
       "updated_at": "2026-09-01T16:53:19Z",
       "browser_download_url": "https://github.com/MoonshotAI/kimi-cli/releases/download/1.50.0/kimi-1.50.0-x86_64-unknown-linux-gnu-onedir.tar.gz"
@@ -859,7 +859,7 @@
       "state": "uploaded",
       "size": 95644745,
       "digest": "sha256:10ccaa26ee7f5bb43f7c05baf808c11cd0160710b07ac422382d1d1923f3dab6",
-      "download_count": 1090,
+      "download_count": 1120,
       "created_at": "2026-09-01T16:53:11Z",
       "updated_at": "2026-09-01T16:53:19Z",
       "browser_download_url": "https://github.com/MoonshotAI/kimi-cli/releases/download/1.50.0/kimi-1.50.0-x86_64-unknown-linux-gnu.tar.gz"
