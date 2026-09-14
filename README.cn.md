@@ -38,22 +38,22 @@ x install kimi-cli
 
 ## 流行度
 
-- **Star**: 11,344 · **Fork**: 1,300 · **开放 issue**: 1,049 · **贡献者**: 76
+- **Star**: 11,351 · **Fork**: 1,300 · **开放 issue**: 1,049 · **贡献者**: 76
 
 ## 累计统计
 
-- **发布数**: 103 · **已合并 PR**: 741 · **开放 PR**: 303 · **已关闭 issue**: 531 · **开放 issue**: 518 · **提交数**: 1385
+- **发布数**: 103 · **已合并 PR**: 741 · **开放 PR**: 304 · **已关闭 issue**: 532 · **开放 issue**: 517 · **提交数**: 1385
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-14 | 1 | 2 | 7 | 3 | 23 | 2 |
-| last60d | 2026-07-15 | 2 | 5 | 45 | 6 | 71 | 6 |
-| 90d | 2026-06-15 | 3 | 11 | 55 | 13 | 90 | 11 |
-| last180d | 2026-03-17 | 28 | 214 | 215 | 96 | 458 | 223 |
-| 360d | 2025-09-18 | 100 | 740 | 303 | 531 | 518 | 1275 |
-| last720d | 2024-09-23 | 100 | 740 | 303 | 531 | 518 | 1385 |
+| 30d | 2026-08-15 | 1 | 2 | 8 | 3 | 21 | 2 |
+| last60d | 2026-07-16 | 2 | 4 | 46 | 6 | 70 | 4 |
+| 90d | 2026-06-16 | 3 | 11 | 56 | 13 | 88 | 11 |
+| last180d | 2026-03-18 | 27 | 209 | 216 | 94 | 456 | 202 |
+| 360d | 2025-09-19 | 100 | 740 | 304 | 532 | 517 | 1217 |
+| last720d | 2024-09-24 | 100 | 740 | 304 | 532 | 517 | 1385 |
 
 ## Release 资产
 
@@ -84,14 +84,6 @@ x install kimi-cli
 | [kimi-1.50.0-x86_64-unknown-linux-gnu.tar.gz](https://github.com/MoonshotAI/kimi-cli/releases/download/1.50.0/kimi-1.50.0-x86_64-unknown-linux-gnu.tar.gz) | 91.2 MiB | `native/linux/x64/glibc` |
 | [kimi-1.50.0-x86_64-unknown-linux-gnu.tar.gz.sha256](https://github.com/MoonshotAI/kimi-cli/releases/download/1.50.0/kimi-1.50.0-x86_64-unknown-linux-gnu.tar.gz.sha256) | 110 B | `native/linux/x64/glibc` |
 
-## 发行版状态
-
-在 [repology.org](https://repology.org/project/kimi-cli) 上共有 **5** 个发行版报告此项目。**2** 个 ✅ 已是最新上游版本，**2** 个 ⚠️ 使用旧版本。
-
-| 发行版 | 版本 | 状态 |
-|--------|------|------|
-| Homebrew | `1.48.0` | ⚠️ outdated |
-
 ## 改进这些数据
 
 kimi-cli 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索引维护——这是一份由 x-cmd 在安装时读取的精选 YAML 包列表。如果 `kimi-cli` 缺失、过期，或安装行为有问题，欢迎在该 repo 提 issue 或 PR：
@@ -101,4 +93,4 @@ kimi-cli 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install)
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260913.yml` · 2026-09-13T05:45:23Z._
+_数据快照: `data/card/260914.yml` · 2026-09-14T06:02:08Z._
