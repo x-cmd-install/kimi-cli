@@ -4,7 +4,7 @@
 
 Kimi Code CLI is your next CLI agent.
 
-![kimi-cli](https://repo.x-cmd.io/kimi-cli.svg)
+[![x-cmd/install — kimi-cli Code Quality Monitoring Repo Card](https://repo.x-cmd.io/kimi-cli.svg)](https://x-cmd.com/install/kimi-cli)
 
 ## Install
 
@@ -38,22 +38,22 @@ Total: **173,364** lines of code across **727** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 11,397 · **Forks**: 1,318 · **Open issues**: 1,055 · **Contributors**: 76
+- **Stars**: 11,408 · **Forks**: 1,324 · **Open issues**: 1,056 · **Contributors**: 76
 
 ## Totals (cumulative)
 
-- **Releases**: 103 · **Merged PRs**: 741 · **Open PRs**: 306 · **Closed issues**: 546 · **Open issues**: 509 · **Commits**: 1385
+- **Releases**: 103 · **Merged PRs**: 741 · **Open PRs**: 301 · **Closed issues**: 566 · **Open issues**: 490 · **Commits**: 1385
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-19 | 1 | 2 | 9 | 1 | 25 | 2 |
-| last60d | 2026-07-20 | 1 | 4 | 41 | 6 | 67 | 4 |
-| 90d | 2026-06-20 | 3 | 11 | 56 | 11 | 92 | 11 |
-| last180d | 2026-03-22 | 26 | 200 | 214 | 91 | 452 | 202 |
-| 360d | 2025-09-23 | 100 | 740 | 306 | 546 | 509 | 1217 |
-| last720d | 2024-09-28 | 100 | 740 | 306 | 546 | 509 | 1385 |
+| 30d | 2026-08-21 | 1 | 2 | 8 | 1 | 25 | 2 |
+| last60d | 2026-07-22 | 1 | 4 | 38 | 6 | 63 | 4 |
+| 90d | 2026-06-22 | 3 | 9 | 54 | 10 | 91 | 9 |
+| last180d | 2026-03-24 | 25 | 191 | 209 | 90 | 448 | 154 |
+| 360d | 2025-09-25 | 100 | 740 | 301 | 566 | 490 | 1156 |
+| last720d | 2024-09-30 | 100 | 740 | 301 | 566 | 490 | 1385 |
 
 ## Release assets
 
@@ -93,4 +93,4 @@ Install metadata for kimi-cli lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260918.yml` · 2026-09-18T05:53:43Z._
+_Snapshot: `data/card/260920.yml` · 2026-09-20T05:52:20Z._

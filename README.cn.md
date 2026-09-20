@@ -4,7 +4,7 @@
 
 Kimi Code CLI is your next CLI agent.
 
-![kimi-cli](https://repo.x-cmd.io/kimi-cli.svg?lang=zh)
+[![x-cmd/install — kimi-cli Code Quality Monitoring Repo Card](https://repo.x-cmd.io/kimi-cli.svg?lang=zh)](https://x-cmd.com/install/kimi-cli)
 
 ## 安装
 
@@ -38,22 +38,22 @@ x install kimi-cli
 
 ## 流行度
 
-- **Star**: 11,397 · **Fork**: 1,318 · **开放 issue**: 1,055 · **贡献者**: 76
+- **Star**: 11,408 · **Fork**: 1,324 · **开放 issue**: 1,056 · **贡献者**: 76
 
 ## 累计统计
 
-- **发布数**: 103 · **已合并 PR**: 741 · **开放 PR**: 306 · **已关闭 issue**: 546 · **开放 issue**: 509 · **提交数**: 1385
+- **发布数**: 103 · **已合并 PR**: 741 · **开放 PR**: 301 · **已关闭 issue**: 566 · **开放 issue**: 490 · **提交数**: 1385
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-19 | 1 | 2 | 9 | 1 | 25 | 2 |
-| last60d | 2026-07-20 | 1 | 4 | 41 | 6 | 67 | 4 |
-| 90d | 2026-06-20 | 3 | 11 | 56 | 11 | 92 | 11 |
-| last180d | 2026-03-22 | 26 | 200 | 214 | 91 | 452 | 202 |
-| 360d | 2025-09-23 | 100 | 740 | 306 | 546 | 509 | 1217 |
-| last720d | 2024-09-28 | 100 | 740 | 306 | 546 | 509 | 1385 |
+| 30d | 2026-08-21 | 1 | 2 | 8 | 1 | 25 | 2 |
+| last60d | 2026-07-22 | 1 | 4 | 38 | 6 | 63 | 4 |
+| 90d | 2026-06-22 | 3 | 9 | 54 | 10 | 91 | 9 |
+| last180d | 2026-03-24 | 25 | 191 | 209 | 90 | 448 | 154 |
+| 360d | 2025-09-25 | 100 | 740 | 301 | 566 | 490 | 1156 |
+| last720d | 2024-09-30 | 100 | 740 | 301 | 566 | 490 | 1385 |
 
 ## Release 资产
 
@@ -93,4 +93,4 @@ kimi-cli 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install)
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260918.yml` · 2026-09-18T05:53:44Z._
+_数据快照: `data/card/260920.yml` · 2026-09-20T05:52:21Z._
