@@ -2,6 +2,8 @@
 
 [中文版本](./README.cn.md)
 
+> ⚠️ This project is archived.
+
 [Archived] Legacy Python Kimi CLI, no longer maintained. Please use Kimi Code CLI: https://github.com/MoonshotAI/kimi-code
 
 [![x-cmd/install — kimi-cli Code Quality Monitoring Repo Card](https://x-cmd.com/repo-card/kimi-cli.svg)](https://x-cmd.com/install/kimi-cli)
@@ -38,22 +40,22 @@ Total: **173,696** lines of code across **730** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 11,423 · **Forks**: 1,340 · **Open issues**: 1,058 · **Contributors**: 76
+- **Stars**: 11,425 · **Forks**: 1,340 · **Open issues**: 1,058 · **Contributors**: 76
 
 ## Totals (cumulative)
 
-- **Releases**: 105 · **Merged PRs**: 744 · **Open PRs**: 308 · **Closed issues**: 568 · **Open issues**: 490 · **Commits**: 1388
+- **Releases**: 105 · **Merged PRs**: 744 · **Open PRs**: 307 · **Closed issues**: 568 · **Open issues**: 490 · **Commits**: 1388
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-24 | 3 | 5 | 14 | 1 | 27 | 5 |
-| last60d | 2026-07-25 | 3 | 7 | 28 | 6 | 56 | 7 |
-| 90d | 2026-06-25 | 4 | 12 | 61 | 9 | 90 | 12 |
-| last180d | 2026-03-27 | 26 | 172 | 209 | 86 | 437 | 157 |
-| 360d | 2025-09-28 | 100 | 744 | 308 | 568 | 490 | 1159 |
-| last720d | 2024-10-03 | 100 | 744 | 308 | 568 | 490 | 1388 |
+| 30d | 2026-08-25 | 3 | 5 | 13 | 1 | 26 | 5 |
+| last60d | 2026-07-26 | 3 | 7 | 27 | 5 | 56 | 7 |
+| 90d | 2026-06-26 | 4 | 12 | 59 | 9 | 88 | 12 |
+| last180d | 2026-03-28 | 25 | 171 | 207 | 82 | 433 | 157 |
+| 360d | 2025-09-29 | 100 | 744 | 307 | 568 | 490 | 1159 |
+| last720d | 2024-10-04 | 100 | 744 | 307 | 568 | 490 | 1388 |
 
 ## Release assets
 
@@ -93,4 +95,4 @@ Install metadata for kimi-cli lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260923.yml` · 2026-09-23T05:56:27Z._
+_Snapshot: `data/card/260924.yml` · 2026-09-24T05:28:12Z._

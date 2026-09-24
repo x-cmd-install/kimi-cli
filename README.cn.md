@@ -2,6 +2,8 @@
 
 [English version](./README.md)
 
+> ⚠️ 此项目已归档（archived）。
+
 [Archived] Legacy Python Kimi CLI, no longer maintained. Please use Kimi Code CLI: https://github.com/MoonshotAI/kimi-code
 
 [![x-cmd/install — kimi-cli Code Quality Monitoring Repo Card](https://x-cmd.com/repo-card/kimi-cli.svg?lang=zh)](https://x-cmd.com/install/kimi-cli)
@@ -38,22 +40,22 @@ x install kimi-cli
 
 ## 流行度
 
-- **Star**: 11,423 · **Fork**: 1,340 · **开放 issue**: 1,058 · **贡献者**: 76
+- **Star**: 11,425 · **Fork**: 1,340 · **开放 issue**: 1,058 · **贡献者**: 76
 
 ## 累计统计
 
-- **发布数**: 105 · **已合并 PR**: 744 · **开放 PR**: 308 · **已关闭 issue**: 568 · **开放 issue**: 490 · **提交数**: 1388
+- **发布数**: 105 · **已合并 PR**: 744 · **开放 PR**: 307 · **已关闭 issue**: 568 · **开放 issue**: 490 · **提交数**: 1388
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-24 | 3 | 5 | 14 | 1 | 27 | 5 |
-| last60d | 2026-07-25 | 3 | 7 | 28 | 6 | 56 | 7 |
-| 90d | 2026-06-25 | 4 | 12 | 61 | 9 | 90 | 12 |
-| last180d | 2026-03-27 | 26 | 172 | 209 | 86 | 437 | 157 |
-| 360d | 2025-09-28 | 100 | 744 | 308 | 568 | 490 | 1159 |
-| last720d | 2024-10-03 | 100 | 744 | 308 | 568 | 490 | 1388 |
+| 30d | 2026-08-25 | 3 | 5 | 13 | 1 | 26 | 5 |
+| last60d | 2026-07-26 | 3 | 7 | 27 | 5 | 56 | 7 |
+| 90d | 2026-06-26 | 4 | 12 | 59 | 9 | 88 | 12 |
+| last180d | 2026-03-28 | 25 | 171 | 207 | 82 | 433 | 157 |
+| 360d | 2025-09-29 | 100 | 744 | 307 | 568 | 490 | 1159 |
+| last720d | 2024-10-04 | 100 | 744 | 307 | 568 | 490 | 1388 |
 
 ## Release 资产
 
@@ -93,4 +95,4 @@ kimi-cli 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install)
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260923.yml` · 2026-09-23T05:56:27Z._
+_数据快照: `data/card/260924.yml` · 2026-09-24T05:28:12Z._
