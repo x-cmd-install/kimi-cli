@@ -40,22 +40,22 @@ Total: **173,696** lines of code across **730** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 11,422 · **Forks**: 1,326 · **Open issues**: 1,058 · **Contributors**: 76
+- **Stars**: 11,422 · **Forks**: 1,327 · **Open issues**: 1,058 · **Contributors**: 76
 
 ## Totals (cumulative)
 
-- **Releases**: 105 · **Merged PRs**: 744 · **Open PRs**: 303 · **Closed issues**: 568 · **Open issues**: 490 · **Commits**: 1388
+- **Releases**: 105 · **Merged PRs**: 744 · **Open PRs**: 305 · **Closed issues**: 568 · **Open issues**: 490 · **Commits**: 1388
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-30 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-08-31 | 3 | 4 | 11 | 0 | 17 | 3 |
-| 90d | 2026-08-01 | 3 | 7 | 20 | 5 | 47 | 7 |
-| last180d | 2026-05-03 | 11 | 44 | 117 | 27 | 248 | 46 |
-| 360d | 2025-11-04 | 91 | 675 | 303 | 518 | 483 | 857 |
-| last720d | 2024-11-09 | 100 | 744 | 303 | 568 | 490 | 1388 |
+| 30d | 2026-10-01 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-09-01 | 3 | 3 | 11 | 0 | 17 | 3 |
+| 90d | 2026-08-02 | 3 | 7 | 20 | 5 | 45 | 7 |
+| last180d | 2026-05-04 | 11 | 44 | 116 | 27 | 245 | 46 |
+| 360d | 2025-11-05 | 91 | 670 | 305 | 518 | 483 | 857 |
+| last720d | 2024-11-10 | 100 | 744 | 305 | 568 | 490 | 1388 |
 
 ## Release assets
 
@@ -103,4 +103,4 @@ Install metadata for kimi-cli lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261030.yml` · 2026-10-30T06:33:38Z._
+_Snapshot: `data/card/261031.yml` · 2026-10-31T06:25:48Z._
