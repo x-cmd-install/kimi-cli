@@ -50,12 +50,12 @@ Total: **173,696** lines of code across **730** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-01 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-09-01 | 3 | 3 | 11 | 0 | 17 | 3 |
-| 90d | 2026-08-02 | 3 | 7 | 20 | 5 | 45 | 7 |
-| last180d | 2026-05-04 | 11 | 44 | 116 | 27 | 245 | 46 |
-| 360d | 2025-11-05 | 91 | 670 | 305 | 518 | 483 | 857 |
-| last720d | 2024-11-10 | 100 | 744 | 305 | 568 | 490 | 1388 |
+| 30d | 2026-10-02 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-09-02 | 2 | 3 | 11 | 0 | 17 | 3 |
+| 90d | 2026-08-03 | 3 | 5 | 20 | 5 | 44 | 5 |
+| last180d | 2026-05-05 | 11 | 44 | 116 | 27 | 242 | 36 |
+| 360d | 2025-11-06 | 90 | 664 | 305 | 513 | 482 | 777 |
+| last720d | 2024-11-11 | 100 | 744 | 305 | 568 | 490 | 1388 |
 
 ## Release assets
 
@@ -103,4 +103,4 @@ Install metadata for kimi-cli lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261031.yml` · 2026-10-31T06:25:48Z._
+_Snapshot: `data/card/261101.yml` · 2026-11-01T06:50:11Z._
