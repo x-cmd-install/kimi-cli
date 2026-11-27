@@ -40,7 +40,7 @@ Total: **173,696** lines of code across **730** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 11,400 · **Forks**: 1,320 · **Open issues**: 1,058 · **Contributors**: 76
+- **Stars**: 11,398 · **Forks**: 1,320 · **Open issues**: 1,058 · **Contributors**: 76
 
 ## Totals (cumulative)
 
@@ -50,12 +50,12 @@ Total: **173,696** lines of code across **730** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-27 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-09-27 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-08-28 | 3 | 5 | 12 | 0 | 21 | 5 |
-| last180d | 2026-05-30 | 6 | 18 | 67 | 16 | 133 | 18 |
-| 360d | 2025-12-01 | 78 | 568 | 302 | 432 | 481 | 651 |
-| last720d | 2024-12-06 | 100 | 744 | 302 | 568 | 490 | 1388 |
+| 30d | 2026-10-28 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-09-28 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 90d | 2026-08-29 | 3 | 5 | 12 | 0 | 20 | 5 |
+| last180d | 2026-05-31 | 6 | 18 | 67 | 16 | 125 | 18 |
+| 360d | 2025-12-02 | 77 | 567 | 302 | 430 | 481 | 651 |
+| last720d | 2024-12-07 | 100 | 744 | 302 | 568 | 490 | 1388 |
 
 ## Release assets
 
@@ -86,6 +86,14 @@ Total: **173,696** lines of code across **730** files in the top 5 languages.
 | [kimi-1.52.0-x86_64-unknown-linux-gnu.tar.gz](https://github.com/MoonshotAI/kimi-cli/releases/download/1.52.0/kimi-1.52.0-x86_64-unknown-linux-gnu.tar.gz) | 91.2 MiB | `native/linux/x64/glibc` |
 | [kimi-1.52.0-x86_64-unknown-linux-gnu.tar.gz.sha256](https://github.com/MoonshotAI/kimi-cli/releases/download/1.52.0/kimi-1.52.0-x86_64-unknown-linux-gnu.tar.gz.sha256) | 110 B | `native/linux/x64/glibc` |
 
+## Distribution status
+
+Reported by **5** distros on [repology.org](https://repology.org/project/kimi-cli). **2** are ✅ on the latest upstream release, **2** are ⚠️ on an older version.
+
+| Distro | Version | Status |
+|--------|---------|--------|
+| Homebrew | `1.50.0` | ⚠️ outdated |
+
 ## Improve this data
 
 Install metadata for kimi-cli lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `kimi-cli` is missing, out of date, or installs incorrectly, please open an issue or PR there:
@@ -95,4 +103,4 @@ Install metadata for kimi-cli lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261126.yml` · 2026-11-26T09:25:14Z._
+_Snapshot: `data/card/261127.yml` · 2026-11-27T10:12:30Z._
